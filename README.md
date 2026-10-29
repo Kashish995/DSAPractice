@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Kashish995/DSAPractice/tree/master/1254-number-of-closed-islands) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kashish995/DSAPractice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Kashish995/DSAPractice/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kashish995/DSAPractice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Kashish995/DSAPractice/tree/master/0151-reverse-words-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kashish995/DSAPractice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Segment Tree
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kashish995/DSAPractice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,5 +104,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kashish995/DSAPractice/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
