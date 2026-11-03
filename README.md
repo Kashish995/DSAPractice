@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Kashish995/DSAPractice/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kashish995/DSAPractice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kashish995/DSAPractice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Kashish995/DSAPractice/tree/master/3886-sum-of-sortable-integers) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Kashish995/DSAPractice/tree/master/0060-permutation-sequence) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kashish995/DSAPractice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kashish995/DSAPractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kashish995/DSAPractice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Kashish995/DSAPractice/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
