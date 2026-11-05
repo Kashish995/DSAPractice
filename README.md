@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/Kashish995/DSAPractice/tree/master/0149-max-points-on-a-line) |
 | [0220-contains-duplicate-iii](https://github.com/Kashish995/DSAPractice/tree/master/0220-contains-duplicate-iii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kashish995/DSAPractice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Kashish995/DSAPractice/tree/master/3665-twisted-mirror-path-count) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/Kashish995/DSAPractice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Kashish995/DSAPractice/tree/master/3665-twisted-mirror-path-count) |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kashish995/DSAPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
