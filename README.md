@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Kashish995/DSAPractice/tree/master/0151-reverse-words-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Kashish995/DSAPractice/tree/master/0060-permutation-sequence) |
 ## Heap (Priority Queue)
 |  |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kashish995/DSAPractice/tree/master/3364-minimum-positive-sum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
