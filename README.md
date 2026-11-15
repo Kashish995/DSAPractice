@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/Kashish995/DSAPractice/tree/master/0149-max-points-on-a-line) |
+| [0174-dungeon-game](https://github.com/Kashish995/DSAPractice/tree/master/0174-dungeon-game) |
 | [0220-contains-duplicate-iii](https://github.com/Kashish995/DSAPractice/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/Kashish995/DSAPractice/tree/master/0327-count-of-range-sum) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kashish995/DSAPractice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
+| [0174-dungeon-game](https://github.com/Kashish995/DSAPractice/tree/master/0174-dungeon-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Kashish995/DSAPractice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Kashish995/DSAPractice/tree/master/3693-climbing-stairs-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Kashish995/DSAPractice/tree/master/0174-dungeon-game) |
 | [1254-number-of-closed-islands](https://github.com/Kashish995/DSAPractice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Kashish995/DSAPractice/tree/master/3665-twisted-mirror-path-count) |
