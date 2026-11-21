@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kashish995/DSAPractice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kashish995/DSAPractice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kashish995/DSAPractice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kashish995/DSAPractice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kashish995/DSAPractice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kashish995/DSAPractice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kashish995/DSAPractice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kashish995/DSAPractice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kashish995/DSAPractice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kashish995/DSAPractice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Segment Tree
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kashish995/DSAPractice/tree/master/0149-max-points-on-a-line) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kashish995/DSAPractice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kashish995/DSAPractice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kashish995/DSAPractice/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kashish995/DSAPractice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kashish995/DSAPractice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kashish995/DSAPractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
