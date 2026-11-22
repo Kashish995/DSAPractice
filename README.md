@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Kashish995/DSAPractice/tree/master/0151-reverse-words-in-a-string) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kashish995/DSAPractice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kashish995/DSAPractice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
 | [0174-dungeon-game](https://github.com/Kashish995/DSAPractice/tree/master/0174-dungeon-game) |
 | [0354-russian-doll-envelopes](https://github.com/Kashish995/DSAPractice/tree/master/0354-russian-doll-envelopes) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kashish995/DSAPractice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kashish995/DSAPractice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Kashish995/DSAPractice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Kashish995/DSAPractice/tree/master/0295-find-median-from-data-stream) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kashish995/DSAPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kashish995/DSAPractice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Depth-First Search
@@ -248,9 +251,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kashish995/DSAPractice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Kashish995/DSAPractice/tree/master/0354-russian-doll-envelopes) |
+## Rolling Hash
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Hash Function
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 <!---LeetCode Topics End-->
