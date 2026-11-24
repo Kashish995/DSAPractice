@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kashish995/DSAPractice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kashish995/DSAPractice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kashish995/DSAPractice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kashish995/DSAPractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kashish995/DSAPractice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Kashish995/DSAPractice/tree/master/0149-max-points-on-a-line) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Kashish995/DSAPractice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kashish995/DSAPractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kashish995/DSAPractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kashish995/DSAPractice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Kashish995/DSAPractice/tree/master/3886-sum-of-sortable-integers) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kashish995/DSAPractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/Kashish995/DSAPractice/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Kashish995/DSAPractice/tree/master/0220-contains-duplicate-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kashish995/DSAPractice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kashish995/DSAPractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kashish995/DSAPractice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kashish995/DSAPractice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kashish995/DSAPractice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
