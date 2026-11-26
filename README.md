@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/Kashish995/DSAPractice/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/Kashish995/DSAPractice/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Kashish995/DSAPractice/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Kashish995/DSAPractice/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/Kashish995/DSAPractice/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Kashish995/DSAPractice/tree/master/0354-russian-doll-envelopes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Kashish995/DSAPractice/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Kashish995/DSAPractice/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Kashish995/DSAPractice/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/Kashish995/DSAPractice/tree/master/0212-word-search-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Kashish995/DSAPractice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kashish995/DSAPractice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kashish995/DSAPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kashish995/DSAPractice/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Kashish995/DSAPractice/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Kashish995/DSAPractice/tree/master/0212-word-search-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kashish995/DSAPractice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kashish995/DSAPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Kashish995/DSAPractice/tree/master/3665-twisted-mirror-path-count) |
@@ -273,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kashish995/DSAPractice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Kashish995/DSAPractice/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Kashish995/DSAPractice/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
